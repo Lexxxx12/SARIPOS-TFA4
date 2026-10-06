@@ -1,0 +1,21 @@
+
+
+CI_ENVIRONMENT = development
+
+
+app.baseURL = 'http://localhost:8080/'
+
+# Copy this file to .env, then update these values for your MySQL installation.
+database.default.hostname = 127.0.0.1
+database.default.database = saripos
+database.default.username = root
+database.default.password =
+database.default.DBDriver = MySQLi
+database.default.DBPrefix =
+database.default.port = 3306
+
+
+
+
+
+
